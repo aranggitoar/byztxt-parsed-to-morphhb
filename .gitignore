@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tags
+outdir
+s
+src
