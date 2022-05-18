@@ -1,8 +1,11 @@
 # **ByzMT Parsed Version Format into OSHB JSON Format**
 
-This tool will take the parsed format of Byzantine Majority Text (ByzMT) by
-Robinson-Pierpoint, then change the format into the Open Scripture's Hebrew
-Bible (OSHB) JSON format.
+This tool will take the [parsed
+version](https://github.com/byztxt/byzantine-majority-text/tree/master/parsed)
+of the [Byzantine Majority Text by Robinson-Pierpoint
+(ByzMT)](https://github.com/byztxt/byzantine-majority-text), then change the
+format into the [Open Scripture's Hebrew Bible (OSHB) JSON
+format](https://github.com/benihyangbaik/interlinear-bible-simple-editor/blob/main/data/morphhb.json).
 
 Tools for parsing OSHB JSON format into OSHB XML format is available on [their
 repository](https://github.com/openscriptures/morphhb), so the product of this
