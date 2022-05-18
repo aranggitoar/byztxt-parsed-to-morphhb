@@ -1,4 +1,4 @@
-# **ByzMT Parsed Format to OSHB JSON Format Converter**
+# **ByzMT Parsed to OSHB JSON Converter**
 
 This tool will take the [parsed
 version](https://github.com/byztxt/byzantine-majority-text/tree/master/parsed)
